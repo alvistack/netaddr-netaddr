@@ -2,7 +2,7 @@ Source: python-netaddr
 Section: python
 Priority: optional
 Standards-Version: 4.5.0
-Maintainer: Wong Hoi Sing Edison <hswong3i@gmail.com>
+Maintainer: Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
 Homepage: https://github.com/netaddr/netaddr/tags
 Vcs-Browser: https://github.com/alvistack/netaddr-netaddr
 Vcs-Git: https://github.com/alvistack/netaddr-netaddr.git

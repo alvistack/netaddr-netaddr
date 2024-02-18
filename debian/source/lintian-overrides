@@ -1,0 +1,4 @@
+python-netaddr source: file-without-copyright-information
+python-netaddr source: no-debian-changes
+python-netaddr source: source-contains-prebuilt-windows-binary
+python-netaddr source: source-package-encodes-python-version

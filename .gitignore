@@ -16,3 +16,4 @@ tmp/
 coverage.xml
 htmlcov/
 junit.xml
+.pybuild/

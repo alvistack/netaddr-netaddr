@@ -1,0 +1,5 @@
+python3-netaddr: copyright-without-copyright-notice
+python3-netaddr: initial-upload-closes-no-bugs
+python3-netaddr: no-manual-page
+python3-netaddr: package-installs-ieee-data
+python3-netaddr: zero-byte-file-in-doc-directory
